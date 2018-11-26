@@ -1,0 +1,5 @@
+[client]
+database = 'egov_db'
+user = 'root'
+password = 'Lan==1011974'
+default-character-set = utf8
