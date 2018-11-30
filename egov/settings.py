@@ -86,7 +86,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'egov_db',
-        'PASSWORD': 'Lan==1011974',
+        'PASSWORD': 'test@123456',
         'USER': 'root',
         
     }
